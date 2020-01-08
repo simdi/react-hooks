@@ -9,4 +9,4 @@ function HookCounter() {
   )
 }
 
-export default HookCounter
+export default HookCounter;
